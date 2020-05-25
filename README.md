@@ -48,9 +48,9 @@ Hardware Requirements –
 - Competition: A few similar apps with a pre-existing user base.
 
 ## CONTRIBUTORS -
--
--
--
--
--
--
+- Hareeshwar Karthikeyan
+- Akshit Gandhi
+- Sudhanshu Baluja
+- Tanishq
+- Bhavya
+- Nirav Agarwal
