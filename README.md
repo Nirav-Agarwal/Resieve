@@ -5,7 +5,7 @@
 - Our aim is to provide a solution for this issue in the form of an application which acts as an effective filter for toxic messages.
 - To actively apply efficient Natural Language Processing (NLP) algorithms with deep learning to perform text filtering and deploy the model to merge the filtering functionality with messaging applications.
 <br>
-## MARKET STUDY
+## MARKET STUDY <br>
 -	Only a handful of apps some kind of in-built toxic content filter.
 -	Apps like Instagram and Facebook apply this feature only to a small extent of filtering of graphic content and toxic comments on posts.
 -	Opportunity for message filtering apps.
